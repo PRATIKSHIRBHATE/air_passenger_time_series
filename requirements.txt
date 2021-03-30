@@ -81,7 +81,7 @@ pycodestyle @ file:///home/conda/feedstock_root/build_artifacts/pycodestyle_1589
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
 pydocstyle==5.0.2
 pyflakes==2.2.0
-Pygments==2.6.1
+Pygments==2.7.4
 pygpu==0.7.6
 pylint @ file:///Users/runner/miniforge3/conda-bld/pylint_1592404316792/work
 pyOpenSSL==19.1.0
