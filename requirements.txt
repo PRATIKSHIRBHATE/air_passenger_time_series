@@ -60,7 +60,7 @@ mccabe==0.6.1
 mistune==0.8.4
 nbconvert==5.6.1
 nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1594060262917/work
-notebook==6.0.3
+notebook==6.4.1
 numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1595522909688/work
 numpydoc @ file:///home/conda/feedstock_root/build_artifacts/numpydoc_1593656006205/work
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
