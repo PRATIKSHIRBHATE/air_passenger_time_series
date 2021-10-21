@@ -9,7 +9,7 @@ astroid @ file:///Users/runner/miniforge3/conda-bld/astroid_1591645087651/work
 atomicwrites @ file:///home/conda/feedstock_root/build_artifacts/atomicwrites_1588182545583/work
 attrs==19.3.0
 autopep8 @ file:///home/conda/feedstock_root/build_artifacts/autopep8_1591017828430/work
-Babel==2.8.0
+Babel==2.9.1
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 backports.functools-lru-cache==1.6.1
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
