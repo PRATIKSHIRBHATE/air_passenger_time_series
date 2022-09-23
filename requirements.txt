@@ -74,7 +74,7 @@ pickleshare==0.7.5
 pluggy @ file:///Users/runner/miniforge3/conda-bld/pluggy_1592827488528/work
 prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1592500439797/work
-protobuf==3.12.3
+protobuf==3.18.3
 psutil @ file:///Users/runner/miniforge3/conda-bld/psutil_1594826940124/work
 ptyprocess==0.6.0
 pycodestyle @ file:///home/conda/feedstock_root/build_artifacts/pycodestyle_1589305246696/work
